@@ -1,2 +1,2 @@
 # utilities
-used to automate some personal tasks
+used to automate some tasks
